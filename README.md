@@ -8,6 +8,8 @@ Some things useful to follow when write or start writint css (or scss).
 - Use one (1) space after `:` when declaring a property
 - Write each rule per line
 - Closing `}` better in a new line
+- One line between related declarations
+- Two (or more, see "Comments/Headings") lines between unrelated declarations 
 
 ```
 .selector,
