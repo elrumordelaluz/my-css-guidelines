@@ -68,7 +68,7 @@ Some things useful to follow when write or start writint css (or scss).
 /// Simple comment
 ```
 
-### Othe little things
+### Other little things
 - Remove (automatic or manually) the last end-of-line whitespace
 
 
