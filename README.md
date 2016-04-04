@@ -1,5 +1,5 @@
 # my-css-guidelines 
-Some things useful to follow when write or start writint css (or scss).
+Some things useful to follow when write or start writing css (or scss).
 
 ### General things
 - Keep the code readable
